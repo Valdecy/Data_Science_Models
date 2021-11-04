@@ -4,3 +4,5 @@ Machine Learning, Deep Machine Learning and Artificial Intelligence Models in MS
 Available Models:
 
 GANs - Generate a 5x5 Black & White Image
+
+MLP - Simple Neural Network to Solve a Regression Problem
